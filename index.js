@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://web-chat-spot-rwhx.vercel.app"
+    "https://web-chat-spot-wn3k.vercel.app"
   ],
   credentials: true,
   methods: ["GET", "PUT", "POST", "DELETE"],
